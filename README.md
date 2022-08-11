@@ -70,4 +70,6 @@ Coluna luminosa que tem ate 5 cores diferentes. 5 tipos de sinalizações sonora
 - Hardware: RICH-61D0
 #### Features
 - Alimentação: fonte 1270VAC/220VAC
-- Plug-in-play com todos os gateways. Apos o ligamento, basta comunicar a equipe da C4A para liberar o acesso. 
+- Plug-in-play com todos os gateways. Apos o ligamento, basta comunicar a equipe da C4A para liberar o acesso.
+### Plataforma C4A
+Todas as aplicações da Call4Action estão com o dominio [c4a.com.br](https://c4a.com.br/) com o subdomino da aplicação por ex. [bundycwb.c4a.com.br](https://bundycwb.c4a.com.br)
