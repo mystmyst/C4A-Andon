@@ -9,7 +9,7 @@ User manual Call4Action - Andon
 
 C4A pode é um sistema que usa equipamentos de comunicação sem fio. Podendo ser acionados por botoeiras sem fio que não usam bateria e se moldando a plantas que não tem a possibilidade de pontos de alimentações.  
 
-As colunas luminosas e beacons sem fio da C4A podem ser usadas para mostrar o estagio de uma linha de produção com sinais luminosos. 
+As colunas luminosas e beacons sem fio da C4A podem ser usadas para mostrar o estagio de uma linha de produção com sinais luminosos e sonoros. 
 
 Todas as ativações das botoeiras ou beacons/colunas luminosas são monitoradas pelo sistema C4A. Esses dados de ativações são disponibilidadas para tratamento de dados.
 
@@ -30,5 +30,16 @@ A plataforma [C4A](https://c4a.com.br/) foi pensada em ser utilizada em Nuvem ou
 
 ## 4. Setups do funcionamento da solução:
 ### Aplience:
+Dispositivo responsavel pela aquisição e tratamento dos dados 
 - A fonte que vai junto, tem que ser ligada na tomada e no dispositivo
-- O cabo de rede deve ser ligado no applience e na rede em que será 
+- O cabo de rede deve ser ligado no applience e na rede em que terá internet ou na rede em que os demais disposivos estarão ligados.
+
+### Eltako FAM14:
+Gateway que faz funcionar as botoeiras sem fio.
+- Alimentação: rede eletétrica (120VA ou 220VA)
+- Comunicação: ligada no applience com cabo MINI USB.
+
+### QLight GW768:
+Gateway que faz a comunicação dos Beacons e Colunas Luminosas.
+- Alimentação: 24V ou Cabo MINI USB.
+- Comunicação: ligada no applience com cabo MINI USB ou via cabo de rede (os equipamentos tem que estarem na mesma rede que o applience).
