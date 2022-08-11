@@ -74,6 +74,11 @@ Coluna luminosa que tem ate 5 cores diferentes. 5 tipos de sinalizações sonora
 - Plug-in-play com Qlight GW768.
 
 ### Plataforma C4A
-- versão: 2.6.7.4.3 (6-frontend; 7-backend; 4-mobile; 3-applience)
+- versão: 2.8.7.4.3 (6-frontend; 7-backend; 4-mobile; 3-applience)
 - Aplicação web: Todas as aplicações da Call4Action estão com o dominio [c4a.com.br](https://c4a.com.br/) com o subdomino da aplicação por ex. [bundycwb.c4a.com.br](https://bundycwb.c4a.com.br); [bundypba.c4a.com.br](https://bundypba.c4a.com.br)
 - Mobile: o aplicativo Android esta disponivel ao entrar no endereço android correspondente da aplicação.
+
+#### Features
+##### Tela principal: 
+- Piso Principal: Mostra o desenho da planta, posicionando cada linha fabril no chao de fabrica. 
+- 
