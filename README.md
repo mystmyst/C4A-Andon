@@ -63,3 +63,11 @@ Sinalisadores visuais e sonoros. 3 cores primarioas que podem se misturar. 5 tip
 Coluna luminosa que tem ate 5 cores diferentes. 5 tipos de sinalizações sonoras.
 - Comunicação: alcence do GW768.
 - Alimentação: 24Vcc
+
+## 5. Versão:
+### Aplience:
+- versão 3.2.0.2
+- Hardware: RICH-61D0
+#### Features
+- Alimentação: fonte 1270VAC/220VAC
+- Plug-in-play com todos os gateways. Apos o ligamento, basta comunicar a equipe da C4A para liberar o acesso. 
