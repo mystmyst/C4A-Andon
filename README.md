@@ -13,7 +13,7 @@ As colunas luminosas e beacons sem fio da C4A podem ser usadas para mostrar o es
 
 Todas as ativações das botoeiras ou beacons/colunas luminosas são monitoradas pelo sistema C4A. Esses dados de ativações são disponibilidadas para tratamento de dados.
 
-A plataforma [C4A](https://c4a.com.br/) foi pensada em ser utilizada em Nuvem ou em um servidor interno. A diferença crussial é poder acompanhar o sistema de qualquer lugar (Nuvem) ou se os dados são sigilosos que não podem sair de fora da empresa (servidor local).
+A plataforma [C4A](https://c4a.com.br/) foi pensada em ser utilizada em Nuvem ou em um servidor interno. A diferença crussial é poder acompanhar o sistema de qualquer lugar (Nuvem) ou se os dados são sigilosos que não podem sair da empresa (servidor local).
 
 ## 3. Lista de hardwares compativeis:
 - C4A Applience 
@@ -30,7 +30,7 @@ A plataforma [C4A](https://c4a.com.br/) foi pensada em ser utilizada em Nuvem ou
 
 ## 4. Setups do funcionamento da solução:
 ### Aplience:
-Dispositivo responsavel pela aquisição e tratamento dos dados 
+Dispositivo responsavel pela aquisição e tratamento dos dados.
 - A fonte que vai junto, tem que ser ligada na tomada e no dispositivo
 - O cabo de rede deve ser ligado no applience e na rede em que terá internet ou na rede em que os demais disposivos estarão ligados.
 
@@ -43,3 +43,23 @@ Gateway que faz funcionar as botoeiras sem fio.
 Gateway que faz a comunicação dos Beacons e Colunas Luminosas.
 - Alimentação: 24V ou Cabo MINI USB.
 - Comunicação: ligada no applience com cabo MINI USB ou via cabo de rede (os equipamentos tem que estarem na mesma rede que o applience).
+
+### Schleggel EK-FA-KRGV:
+Repetidor de sinal das botoeiras.
+- Alimentação: rede eletétrica (120VA ou 220VA)
+- Comunicação: Tem que estar no alcance do FAM14.
+
+### Schlegel DFA16 DFA22:
+Bloco de contato das botoeiras sem fio e sem bateria.
+- Comunicação: alcance do FAM14 ou EK-FA-KRGV.
+- Configurações: 2 estagios (on, off) ou pulso.
+
+### Qlight QMCL125-WIZ-BZ:
+Sinalisadores visuais e sonoros. 3 cores primarioas que podem se misturar. 5 tipos de sinalizações sonoras.
+- Comunicação: alcence do GW768.
+- Alimentação: 24Vcc
+
+### Qlight  QTG70LF-WIZ-BZ:
+Coluna luminosa que tem ate 5 cores diferentes. 5 tipos de sinalizações sonoras.
+- Comunicação: alcence do GW768.
+- Alimentação: 24Vcc
