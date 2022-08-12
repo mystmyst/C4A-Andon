@@ -79,6 +79,17 @@ Coluna luminosa que tem ate 5 cores diferentes. 5 tipos de sinalizações sonora
 - Mobile: o aplicativo Android esta disponivel ao entrar no endereço android correspondente da aplicação.
 
 #### Features
+##### Usuários:
+Há 3 tipos de usuários. Viewers, Administradores e User de nivel.
+- Viewers: são usuários que só é possivel visualizar e acompanhar o Piso Principal.
+- Administradores: usuários que podem editar e cadastrar todos os elementos do sistema, fechar ocorrências e gerar relatórios.
+- Usuários de Nível: usuários que visualizam 
+
 ##### Tela principal: 
-- Piso Principal: Mostra o desenho da planta, posicionando cada linha fabril no chao de fabrica. 
-- 
+- Piso Principal: Mostra o desenho da planta, posicionando cada linha fabril no chão de fábrica. 
+- No botao de edição é possível reposicionar as linhas no chão de fábrica.
+- Dando um clique duplo nas linhas sem ocorrências, é possivel editar a linha.
+- Na tabela na direita é possível verificar todos as ocorrêrncias abertas.
+- Para fechar ocorrências é clicando na linha no Piso Principal ou na tabela com a ocorrência que deseja fechar.
+- Clicando em qualquer elemento do menu a esquerda  o menu expande.
+
