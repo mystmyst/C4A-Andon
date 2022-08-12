@@ -114,5 +114,5 @@ Motivo de parada é um motivo pre cadastrado que é usado para fechar ocorrênci
 
 #### Features do applicativo mobile
 O aplicativo web é disponivel para download ao acessar o endereço web da aplicação.
-- É possivel acompanhar o status 
-
+- É possível acompanhar o status do chão de fábrica
+- É possível fechar ocorrências.
