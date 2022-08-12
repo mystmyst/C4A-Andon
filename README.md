@@ -83,7 +83,9 @@ Coluna luminosa que tem ate 5 cores diferentes. 5 tipos de sinalizações sonora
 Há 3 tipos de usuários. Viewers, Administradores e User de nivel.
 - Viewers: são usuários que só é possivel visualizar e acompanhar o Piso Principal.
 - Administradores: usuários que podem editar e cadastrar todos os elementos do sistema, fechar ocorrências e gerar relatórios.
-- Usuários de Nível: usuários que visualizam 
+- Usuários de Nível: usuários que visualizam e fecham ocorrências igual ou menor que.
+
+##### 
 
 ##### Tela principal: 
 - Piso Principal: Mostra o desenho da planta, posicionando cada linha fabril no chão de fábrica. 
