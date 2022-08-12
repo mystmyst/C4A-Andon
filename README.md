@@ -78,20 +78,40 @@ Coluna luminosa que tem ate 5 cores diferentes. 5 tipos de sinalizações sonora
 - Aplicação web: Todas as aplicações da Call4Action estão com o dominio [c4a.com.br](https://c4a.com.br/) com o subdomino da aplicação por ex. [bundycwb.c4a.com.br](https://bundycwb.c4a.com.br); [bundypba.c4a.com.br](https://bundypba.c4a.com.br)
 - Mobile: o aplicativo Android esta disponivel ao entrar no endereço android correspondente da aplicação.
 
-#### Features
-##### Usuários:
+#### Features aplicação web
+#### Usuários:
 Há 3 tipos de usuários. Viewers, Administradores e User de nivel.
-- Viewers: são usuários que só é possivel visualizar e acompanhar o Piso Principal.
+- Viewers: são usuários que só é possivel visualizar e acompanhar o Piso Principal. Ex. TV e telas Grandes.
 - Administradores: usuários que podem editar e cadastrar todos os elementos do sistema, fechar ocorrências e gerar relatórios.
-- Usuários de Nível: usuários que visualizam e fecham ocorrências igual ou menor que.
+- Usuários de Nível: usuários que visualizam e fecham ocorrências igual ou menor que seu nivel.  
+*****somente administradores conseguem cadastrar e editar*****
 
-##### 
+#### Aletas:
+Alertas correspondem o nível que a occorência podem alcançar. O nivel aumenta quando o tempo do timer 1 ou timer 2 acaba.
+- Nível correspondente.
+- Descrição: nome do alerta.
+- Cor: cor que aparecerá no alerta.
+- Timer 1: o tempo que contará no momento do acionamento da botoeira.
+- Timer 2: o tempo que contará no memento do desligamento da botoeira.  
+*****somente administradores conseguem cadastrar e editar*****
 
-##### Tela principal: 
+#### Setores:
+Os setores fazem parte da regra de fechamento de ocorrencias. Setores correspondem ao setor que estará fechando a ocorrência.  
+*****somente administradores conseguem cadastrar e editar*****
+
+#### Motivo de Parada:
+Motivo de parada é um motivo pre cadastrado que é usado para fechar ocorrências.  
+*****somente administradores conseguem cadastrar e editar*****
+
+#### Tela principal: 
 - Piso Principal: Mostra o desenho da planta, posicionando cada linha fabril no chão de fábrica. 
 - No botao de edição é possível reposicionar as linhas no chão de fábrica.
 - Dando um clique duplo nas linhas sem ocorrências, é possivel editar a linha.
 - Na tabela na direita é possível verificar todos as ocorrêrncias abertas.
 - Para fechar ocorrências é clicando na linha no Piso Principal ou na tabela com a ocorrência que deseja fechar.
-- Clicando em qualquer elemento do menu a esquerda  o menu expande.
+- Clicando em qualquer elemento do menu a esquerda  o menu expande.  
+*****somente administradores conseguem cadastrar e editar*****
+
+#### Features do applicativo mobile
+O aplicativo web é disponivel para download ao acessar o endereço web da aplicação.
 
